@@ -97,23 +97,7 @@ The analysis helped identify:
 - The amount of capital tied up in unsold inventory.
 - The concentration of purchase contributions among major vendors.
 
-##  Project Structure
 
-```text
-Vendor-Performance-Analysis/
-│
-├── data/
-│   └── vendor_sales_summary.csv
-│
-├── notebooks/
-│   └── Vendor_Performance_Analysis.ipynb
-│
-├── sql/
-│   └── SQL_Queries.sql
-│
-├── powerbi/
-│   └── Vendor_Performance_Dashboard.pbix
-│
 ├── reports/
 │   └── Vendor_Performance_Report.pdf
 │
